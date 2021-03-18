@@ -39,7 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59748163/111573513-e814f180-8767-11eb-8102-69745c7adadc.gif)
+
+https://user-images.githubusercontent.com/59748163/111583811-2f0be280-877a-11eb-8a06-8295455c5228.mp4
+
+
 
 
 
