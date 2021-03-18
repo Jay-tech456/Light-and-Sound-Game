@@ -52,7 +52,8 @@ Previous Programming Assignments in C++
   The biggest challenge that I have been doing is getting use to web development with the Javascript. I have made websites before in the past using css and html; but never put in javascript. The biggest challenge in implementing this was the matching guessing the project correctly; it was tough to develop the game logic in order for the user to win the game. JavaScript is not one of my main language, but my experience with other languages help me with this obstacle. I overcome this by applying my c++, Java, and Python knowledge over iterating through the array as the user enters the correct button. As soon as I got it correct, I started to have a great time, and would love to learn more in full stack development. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-
+  I am wondering what other implementations of the sound games that were submitted? 
+  How is react going to be used in order to make the website more compatable? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
   If I had a few more hours to work on this project, I will apply a eggbeater timer so that the user can enter the pattern correctly without having unlimited time. I would display the pattern number that the user got right in the underneath the button, and how many turns the user has to get right in order to win the game.
