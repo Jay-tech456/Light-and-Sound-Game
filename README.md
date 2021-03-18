@@ -47,6 +47,7 @@ Here's a walkthrough of implemented user stories:
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 w3 School on JavaScript DOM
 Previous Programming Assignments in C++
+https://colorhunt.co/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
   The biggest challenge that I have been doing is getting use to web development with the Javascript. I have made websites before in the past using css and html; but never put in javascript. The biggest challenge in implementing this was the matching guessing the project correctly; it was tough to develop the game logic in order for the user to win the game. JavaScript is not one of my main language, but my experience with other languages help me with this obstacle. I overcome this by applying my c++, Java, and Python knowledge over iterating through the array as the user enters the correct button. As soon as I got it correct, I started to have a great time, and would love to learn more in full stack development. 
